@@ -1,0 +1,44 @@
+body{
+	background-color: #63c2bb;	
+}
+img{
+	max-width: : 1000px;
+width: 70%;/*ширенна	*/
+height: auto;/*высота*/
+display: block; делает элементы друг под другом
+margin: auto;
+}
+.Glav1{
+width: 70%;
+height: auto;
+
+}
+.Glav2{
+	width: 30%;
+	height: auto;
+}
+div{
+	
+}
+.h1class
+{
+	color: red;/* цвет текста*/
+}
+.span1{
+	color: blue;
+	font-size: 250%;
+	font-family: sans-serif;
+	position: relative;
+	top: 7px;
+
+}
+blockquote {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.page2{
+	background-image: url();
+}body
